@@ -1,0 +1,28 @@
+.phase1 .swayambhu {
+    background:url("1200px-Swayambhunath_2018.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.phase1 .pokhara {
+    background:url("pokhara-day-tour1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.phase1 .everest {
+    background:url("Mount-Everest.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.phase1 .Pashupatinath {
+    background:url("990px-The_Pashupatinath_Temple_27.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
